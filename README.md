@@ -1,3 +1,4 @@
+# TSynth
 ![](https://electrotechnique.github.io/etlogo.png)
 
 # Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
