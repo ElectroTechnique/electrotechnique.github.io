@@ -1,6 +1,6 @@
 ![](https://electrotechnique.github.io/etlogo.png)
 
-Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
+#Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
 
 More details at PJRC Forum https://forum.pjrc.com/threads/57418-TSynth-Two-Oscillator-Polysynth
 
