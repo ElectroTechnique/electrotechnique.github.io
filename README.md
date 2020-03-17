@@ -6,7 +6,7 @@ More details at [PJRC Forum](https://forum.pjrc.com/threads/57418-TSynth-Two-Osc
 
 ![](https://forum.pjrc.com/attachment.php?attachmentid=17379&d=1567073211)
 
-#Specifications
+# Specifications
 
 Oscillators
 - Six voice polyphony (last note priority), two oscillators per voice, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level
@@ -46,7 +46,7 @@ Audio
 
 Hardware
 - Teensy 3.6 with SGTL5000 Audio Shield. Two 4067 multiplexers providing 32 channels from the pots into two ADCs. The rest of the pots and switches use remaining pins on Teensy.
-- Enclosure is laser cut acrylic with etched labels filled with yellow acrylic paint (this technique could be improved with experimentation), end cheeks are 3D printed.
+- Enclosure is laser cut acrylic with PCB-base front panel
 
 
 USE
