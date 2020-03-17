@@ -1,4 +1,5 @@
-# TSynth
+![](https://electrotechnique.github.io/etlogo.jpg)
+# Electrotechnique TSynth
 Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
 
 More details at PJRC Forum https://forum.pjrc.com/threads/57418-TSynth-Two-Oscillator-Polysynth
@@ -11,7 +12,7 @@ Oscillators
 - Six voice polyphony (last note priority), two oscillators per voice, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level
 - Pulse Width/Var Triangle can be set for each oscillator with PWM by dedicated LFO or from the filter envelope
 - Pink or white noise level
-- Dedicated LFO for pitch mod (can be retriggered by note on) , Sine/Triangle/Sawtooth/Ramp/Square/S&H waveforms
+- Dedicated LFO for pitch mod (can be retriggered by note on), Sine/Triangle/Sawtooth/Ramp/Square/S&H waveforms
 - Pitch can be modulated by filter envelope (+/-)
 - XOR ‘Ring Mod’ (creates lots of harmonics with certain waveforms)
 - Unison with all eight oscillators detunable from each other
