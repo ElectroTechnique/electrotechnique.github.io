@@ -1,6 +1,6 @@
 ![](https://electrotechnique.github.io/etlogo.png)
 
-#Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
+# Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
 
 More details at PJRC Forum https://forum.pjrc.com/threads/57418-TSynth-Two-Oscillator-Polysynth
 
@@ -61,4 +61,4 @@ TSynth patch saving and recall works like an analogue polysynth from the late 70
 
 KNOWN ISSUES
 - Plugging in a MIDI controller may alter current patch settings. Arturia Minilab sends its current panel control settings when plugged in, causing MIDI CC messages to be received by TSynth.
-- MIDI In DIN doesn't like MIDI Clock signals which get mixed up with note on/off and CC messages, so it's set not to listen to MIDI Clock. MIDI Host and client USB is fine.
+- MIDI In DIN doesn't like MIDI Clock signals which get mixed up with note on/off and CC messages, so it's set not to listen to MIDI Clock. MIDI Host and client USB is fine. This is an issue being investigated.
