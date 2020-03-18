@@ -14,7 +14,7 @@ Run the Teensy Loader and open the firmware (a hex file). Press 'Auto' on the Lo
 - 7 12mm 7.3mm high Tactile switches with caps 
 - 33 Knobs 6mm splined type
 - Knob for encoder with D shape (can 3D print this - see model below)
-- 
+- DIN 5 pin
 - USB type A right angle receptacle
 - USB type B right angle receptacle (optional)
 - 1/8" Stereo jack socket (optional)
