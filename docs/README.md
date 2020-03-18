@@ -5,6 +5,9 @@ The Teensy 3.6 is programmed by flashing the [firmware](https://electrotechnique
 The current firmware for TSynth is here.
 Run the Teensy Loader and open the firmware (a hex file). Press 'Auto' on the Loader and you need to press the button on your Teensy. The firmware will then quickly load onto the Teensy.
 
+## Current Firmware
+[TSynth.hex](https://electrotechnique.github.io/TSynth/build/TSynth.hex)
+
 ## Mechanical Diagrams
 - [Main PCB PDF](https://electrotechnique.github.io/TSynth/docs/MainPCB.pdf)
 - [Front Panel PDF](https://electrotechnique.github.io/TSynth/docs/FrontPanel.pdf)
