@@ -2,7 +2,7 @@
 
 # Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
 
-More details at [PJRC Forum](https://forum.pjrc.com/threads/57418-TSynth-Two-Oscillator-Polysynth) 
+Currently under development. The pcb and front panel will be available around May 2020 from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted.
 
 ![](fp.jpg)
 
