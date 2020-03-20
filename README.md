@@ -6,7 +6,7 @@ Currently under development. The pcb and front panel as seen below will be avail
 
 ![](fp.jpg)
 
-![](pcbs.jpg)
+![](pcb.jpg)
 
 # Specifications
 
