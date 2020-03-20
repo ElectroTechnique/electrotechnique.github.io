@@ -2,7 +2,7 @@
 
 # Teensy 3.6 based synthesizer using PJRC Audio Board and Audio Lib
 
-Currently under development. The pcb and front panel will be available around May 2020 from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted.
+Currently under development. The pcb and front panel as seen below will be available around May 2020 from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure will be available.
 
 ![](fp.jpg)
 
@@ -62,5 +62,5 @@ TSynth patch saving and recall works like an analogue polysynth from the late 70
 - Save will save the current settings to a new patch at the end of the list or you can use the encoder to overwrite an existing patch. Press Save again to save it. If you want to name/rename the patch, press the encoder enter button and use the encoder and enter button to choose an alphanumeric name. Holding Save for 1.5s will go into a patch deletion mode. Use encoder and enter button to choose and delete patch. Patch numbers will be changed on the SD card to be consecutive again.
 
 KNOWN ISSUES
-- Plugging in a MIDI controller may alter current patch settings. Arturia Minilab sends its current panel control settings when plugged in, causing MIDI CC messages to be received by TSynth.
-- MIDI In DIN doesn't like MIDI Clock signals which get mixed up with note on/off and CC messages, so it's set not to listen to MIDI Clock. MIDI Host and client USB is fine. This is an issue being investigated.
+- Plugging in a MIDI controller may alter current patch settings. Arturia Minilab for example, sends its current panel control settings when plugged in, causing MIDI CC messages to be received by TSynth.
+- MIDI In DIN doesn't like MIDI Clock signals which get mixed up with note on/off and CC messages, so it's currently set not to listen to MIDI Clock. MIDI Host and client USB is fine. This is an issue being investigated.
