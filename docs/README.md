@@ -7,18 +7,25 @@ Run the Teensy Loader and open the firmware (a hex file). Press 'Auto' on the Lo
 
 ## Components and suggested sources
 - Teensy 3.6 PJRC
-- Audio Board Rev C PJRC Be careful to use Rev C NOT D (this is for Teensy 4)
+- Audio Board Rev C PJRC (Be careful to use Rev C, NOT D - this is for Teensy 4)
 - 0.96" IPS Colour Display Banggood, Aliexpress
 - 33 PTV09 or RV09 type potentiometers Mouser, Digikey, RS, Conrad etc... Aliexpress
 - EC12 type Encoder with switch Get the detent type that clicks as you turn
 - 7 12mm 7.3mm high Tactile switches with caps 
+- 4 3mm yellow LEDs low current type (2mA)
 - 33 Knobs 6mm splined type
 - Knob for encoder with D shape (can 3D print this - see model below)
 - DIN 5 pin
 - USB type A right angle receptacle
 - USB type B right angle receptacle (optional)
 - 1/8" Stereo jack socket (optional)
+- 7 8mm M3 female hex brass standoffs
+- 7 10mm M3 male hex brass standoffs - if you make the enclosure
+- 7 12mm M3 male hex brass standoffs - if you make the enclosure
+- 26 8mm M3 screws  - if you make the enclosure
+- 12 M3 brass inserts - if you make the enclosure
 
+The files for a laser cut and 3D printed case are supplied below.
 
 ## User Manual
 - [User Manual](https://electrotechnique.github.io/TSynth/docs/UserManual.pdf)
