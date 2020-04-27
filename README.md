@@ -5,6 +5,8 @@
 Currently under development. The pcb and front panel as seen below will be available around May 2020 from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure will be available.
 Questions: info@electrotechnique.cc
 
+Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth)
+
 # Latest News
 **19th April 2020** - The code is now mostly finished with improvements in various areas. Glide is now polyphonic. The schematic and a number of files for making the enclosure have been added. The PCB and front panel designs are finalised.
 
