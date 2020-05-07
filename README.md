@@ -12,7 +12,7 @@ PCB and front panel will be available from the [Tindie Store](https://www.tindie
 Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth)
 
 # Latest News
-**7th May 2020** - The production version 1.1 of the PCBs and front panels have arrived and will be ready to buy within a week or two. A demo video will appear with a few days. I'm not so great at those things, but it'll show the range of sounds and capabilities.
+**7th May 2020** - The production version 1.1 of the PCBs and front panels have arrived and will be ready to buy within a week or two. A demo video will appear within a few days. I'm not so great at those things, but it'll show the range of sounds and capabilities.
 
 **19th April 2020** - The code is now mostly finished with improvements in various areas. Glide is now polyphonic. The schematic and a number of files for making the enclosure have been added. The PCB and front panel designs are finalised.
 
