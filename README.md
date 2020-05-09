@@ -11,7 +11,7 @@ PCB and front panel will be available from the [Tindie Store](https://www.tindie
 
 Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth)
 
-See a ![Youtube demo](https://youtu.be/ymccocF6hTs)
+See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
 **7th May 2020** - The production version 1.1 of the PCBs and front panels have arrived and will be ready to buy within a week or two. A demo video will appear within a few days. I'm not so great at those things, but it'll show the range of sounds and capabilities.
