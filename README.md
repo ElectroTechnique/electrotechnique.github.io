@@ -14,6 +14,8 @@ Github has [source code, model files and documents](https://github.com/ElectroTe
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**16th May 2020** - Shipping from Korea to various countries is limited at the moment, see the list on the Tindie page.
+
 **14th May 2020** - The PCB and front panels are now available to buy on Tindie.
 
 **7th May 2020** - The production version 1.1 of the PCBs and front panels have arrived and will be ready to buy within a week or two. A demo video will appear within a few days. I'm not so great at those things, but it'll show the range of sounds and capabilities.
