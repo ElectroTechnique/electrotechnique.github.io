@@ -14,6 +14,9 @@ Github has [source code, model files and documents](https://github.com/ElectroTe
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**13th June 2020** - The first TSynth has been built by an early buyer.
+![](TSynthHW.jpg)
+
 **10th June 2020** - Teensy 4.1 has arrived and the first thing to notice is the expected lower CPU load and also much better note on response. 
 
 **20th May 2020** - The first few PCB sets have sold out on Tindie. I'm working on changing the main PCB for Teensy 4.1, which has just been released. In the short term, this will offer more polyphony (16 is probably enough!) and quicker note on response. I also want to implement 'pick up' when changing the controls, which starts to change the value when the control matches the current patch value (this prevents jumps when adjusting the control.) Also I've been asked to consider including MIDI Thru, which is easy to add and another option.
