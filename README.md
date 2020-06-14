@@ -14,7 +14,13 @@ Github has [source code, model files and documents](https://github.com/ElectroTe
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**14th June 2020** - The version supporting Teensy 4.1 is well under way.
+
+![](T4_1.jpg)
+
+
 **13th June 2020** - The first TSynth has been built by an early buyer.
+
 ![](TSynthHW.jpg)
 
 **10th June 2020** - Teensy 4.1 has arrived and the first thing to notice is the expected lower CPU load and also much better note on response. 
