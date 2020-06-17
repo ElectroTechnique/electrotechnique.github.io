@@ -14,6 +14,10 @@ Github has [source code, model files and documents](https://github.com/ElectroTe
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**13th June 2020** - Another TSynth has been successfully built by an early buyer. Also some nice reviews on Tindie.
+
+![](TS_JL.jpg)
+
 **14th June 2020** - The version supporting Teensy 4.1 is well under way.
 
 ![](T4_1.jpg)
