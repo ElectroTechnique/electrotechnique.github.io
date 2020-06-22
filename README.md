@@ -14,6 +14,9 @@ Github has [source code, model files and documents](https://github.com/ElectroTe
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**22nd June 2020** - Ten more sets of (T3.6 based) boards will arrive from the manufacturer JLCPCB next week. There is over 500 people on the Tindie waiting list who will receive emails when it's back in stock, so I'm expecting them to go within a couple of hours.
+Development of T4.1 is still on-going. I have 16 note polyphony at a max of 40% CPU, but some odd problem with certain waveforms. The PCB isn't sorted yet and a prototype needs to be tested.
+
 **17th June 2020** - Another TSynth has been successfully built by an early buyer. Also some nice reviews on Tindie.
 
 ![](TS_JL.jpg)
