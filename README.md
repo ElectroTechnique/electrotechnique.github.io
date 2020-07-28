@@ -15,6 +15,7 @@ See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
 **28th July 2020** - Whoa! 16 note polyphony, 32 oscillators! Unison basses will take your head off! The Teensy 4.1 prototype PCB has no problems. The firmware does however and I'm ploughing through them gradually.
+
 ![](T41FP.jpg)
 ![](T41PCB.jpg)
 
