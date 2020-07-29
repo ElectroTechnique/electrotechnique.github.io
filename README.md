@@ -10,7 +10,9 @@ Questions: info@electrotechnique.cc
 PCB and front panel are now available (when there's stock...) from the [Tindie Store](https://www.tindie.com/stores/electrotechnique/)
 
 Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth)
+
 Build Guide and User Manual are here - [Docs](https://github.com/ElectroTechnique/TSynth/tree/master/Docs)
+
 Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware)
 
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
