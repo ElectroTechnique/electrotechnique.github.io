@@ -18,7 +18,7 @@ Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
-**1st August 2020** - Another early buyer has finished building TSynth and says it sounds great. The problems with the next version with T4.1 have been solved - it needs some memory optimisations as it's running close filling the RAM.
+**1st August 2020** - Another early buyer has finished building TSynth and says it sounds great. The problems with the next version with T4.1 have been solved - it needs some memory optimisations, as it's running close to filling the available RAM.
 
 ![](TS_PS.jpg)
 
