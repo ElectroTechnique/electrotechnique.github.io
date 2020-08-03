@@ -19,7 +19,7 @@ See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
 
-**29th July 2020** - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware) for TSynth has been updated to V1.13. Highlights are:
+**3rd August 2020** - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware) for TSynth has been updated to V1.13. Highlights are:
 Limit pulse width to prevent silence at limits, osc waveform change behaviour improved, usbAudio object changed back, extra space in patch naming chars.
 
 **1st August 2020** - Another early buyer has finished building TSynth and says it sounds great. The problems with the next version with T4.1 have been solved - it needs some memory optimisations, as it's running close to filling the available RAM.
