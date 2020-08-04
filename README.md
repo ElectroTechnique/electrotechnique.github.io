@@ -19,20 +19,9 @@ See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
 
-**3rd August 2020** - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware) for TSynth has been updated to V1.13. Highlights are:
-Limit pulse width to prevent silence at limits, osc waveform change behaviour improved, usbAudio object changed back, extra space in patch naming chars.
-
 **1st August 2020** - Another early buyer has finished building TSynth and says it sounds great. The problems with the next version with T4.1 have been solved - it needs some memory optimisations, as it's running close to filling the available RAM.
 
 ![](TS_PS.jpg)
-
-**29th July 2020** - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware) for TSynth has been updated to V1.12. Highlights are:
-
-- Moving Pitch controls for both oscillators and detune will now have an effect on the sound even if notes aren't being held but still sounding.
-- digitalWrite has been replaced with digitalWriteFast - no noticeable effect but any increase is speed is acceptable.
-- usbAudio was moved to be created earlier, this removed some digital noise when developing T4.1, so we'll try here too.
-- Detune maximum increased from 4% to 5% - why not?
-
 
 **28th July 2020** - Whoa! 16 note polyphony, 32 oscillators! Unison basses will take your head off! The Teensy 4.1 prototype PCB has no problems. The firmware does however and I'm ploughing through them gradually.
 
