@@ -19,6 +19,8 @@ See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
 
+**5th August 2020** - Firmware is now updated to V1.14. There were problems with firmware compiled with overclocking (240MHz), so all firmware will be compiled with defaults (180MHz). Improvements were made to the way controls were read, pulse waveforms are limited so that they will not become silent when very narrow.
+
 **1st August 2020** - Another early buyer has finished building TSynth and says it sounds great. The problems with the next version with T4.1 have been solved - it needs some memory optimisations, as it's running close to filling the available RAM.
 
 ![](TS_PS.jpg)
