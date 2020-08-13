@@ -18,7 +18,9 @@ Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
-**13th August 2020** - Nearing the stage where TSynth for Teensy 4.1 is ready. Velocity is now supported, with sensitivity an option in settings. The patches will store this. 
+**13th August 2020** - Nearing the stage where TSynth for Teensy 4.1 is ready. Velocity is now supported, with four different curves as an option in settings as well as off. The patches will store this. 
+
+![](VC.jpg)
 
 **10th August 2020** - The next TSynth will have a new Unison voice mode. It will assign voices depending on the number of notes held. 12 notes will use all 12, two notes will use 6+6, three will use 4+4+4 and four will use 3+3+3+3. The detuning is properly set up to support this as well. There is also a 'Bass Enhance' setting in the menu that increases the bass level. This is processed by the SGTL5000 codec IC on the Audio Board and not the Teensy.
 
