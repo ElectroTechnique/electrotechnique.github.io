@@ -18,6 +18,8 @@ Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**18th August 2020** - Firmware V1.17 has been released, which adds velocity sensitivity. This set in Settings and can be stored for each patch. Default is off. See post below for the four velocity curves.
+
 **16th August 2020** - TSynth will transmit the assigned MIDI CC values for the panel controls via the client USB port. This is useful if your sequencing using TSynth and want to record parameter changes to the sequencer, however, the values will jump if not the same value as programmed into the patch. I'm working on a 'pick-up' setting to only change the parameter when the control knobs hits the stored patch value.
 
 **13th August 2020** - Nearing the stage where TSynth for Teensy 4.1 is ready. Velocity is now supported, with four different curves as an option in settings as well as off. The patches will store this. 
