@@ -18,6 +18,8 @@ Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**20th August 2020** - T4.1 version - When you alter parameter settings from either the front panel or via MIDI, the value will jump from what it is set in the patch, to what the current value of the control is. This will sound abrupt and is how all early polysynths worked (Prophet 5, Jupiter 8...) 'Pick-up' is a new experimental setting, that only changes the value when the front panel control or the MIDI control is near the current value. It picks-up the value and then alters it to prevent jumps in the sound. This is working well via MIDI but needs some improvement when using the front panel controls - it works when you change the value slowly and steadily.
+
 **18th August 2020** - Firmware V1.17 has been released, which adds velocity sensitivity. This set in Settings and can be stored for each patch. Default is off. See post below for the four velocity curves.
 
 **16th August 2020** - TSynth will transmit the assigned MIDI CC values for the panel controls via the client USB port. This is useful if your sequencing using TSynth and want to record parameter changes to the sequencer, however, the values will jump if not the same value as programmed into the patch. I'm working on a 'pick-up' setting to only change the parameter when the control knobs hits the stored patch value.
