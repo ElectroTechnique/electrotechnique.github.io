@@ -18,6 +18,10 @@ Build Guide and User Manual are here - [Docs](https://github.com/ElectroTechniqu
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**30th August 2020** - Firmware V1.22 fixes a further problem with glide with held notes. The new TSynth for Teensy 4.1 is nearing readiness. It has another unison mode, accessed by holding the unison button for one second. This is chord unison, which plays one note chords, which are selectable from the detune control.
+
+![](CD.jpg)
+
 **26th August 2020** - Firmware V1.21 fixes a problem with glide not gliding from the previous note properly.
 
 **22nd August 2020** - A new feature that appears on among other synths, the Korg 'logue series is an oscilloscope display. This is an 'experimental feature', meaning that it works but not quite as you might hope for. More work is needed, but it can be turned on and off in the Settings menu.
