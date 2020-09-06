@@ -18,6 +18,8 @@ Build Guide and User Manual are here - [Docs](https://github.com/ElectroTechniqu
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**6th September 2020** - Firmware 1.23 for the current Teesny 3.6 version of TSynth is released. This adds support for MIDI CC from the panel controls to be transmitted over USB Host and Client MIDI ports, which is useful when recording control changes while sequencing. Also a VU Meter that shows amplitude of the audio signal - not a true VU meter. This is the last update and any further firmware will be bug fixes only. Much of the features developed in the new TSynth are now in current TSynth.
+
 **1st September 2020** - And today we have a linear VU meter on the display.
 
 **30th August 2020** - Firmware V1.22 fixes a further problem with glide with held notes. The new TSynth for Teensy 4.1 is nearing readiness. It has another unison mode, accessed by holding the unison button for one second. This is chord unison, which plays one note chords, which are selectable from the detune control.
