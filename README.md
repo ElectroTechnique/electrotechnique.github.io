@@ -9,15 +9,21 @@ Questions: info@electrotechnique.cc
 
 PCB and front panel are now available (when there's stock...) from the [Tindie Store](https://www.tindie.com/stores/electrotechnique/)
 
-Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth)
+Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth-Teensy4.1)
 
-Build Guide and User Manual are here - [Docs](https://github.com/ElectroTechnique/TSynth/tree/master/Docs)
+Build Guide and User Manual for T4.1 (PCB Rev 1.2) are here - [Docs](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Documents)
+Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Docs)
 
-**Current firmware is here - [Firmware](https://github.com/ElectroTechnique/TSynth/tree/master/Firmware)**
+**Current T4.1 firmware (PCB Rev 1.2) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware)**
+**Current T3.6 firmware (PCB Rev 1.1) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Firmware)**
 
 See a [Youtube demo](https://youtu.be/ymccocF6hTs)
 
 # Latest News
+**14th September 2020** - Filter frequency cutoff is now 8 bit, 256 values instead of 127, for smoother changes particularly at low frequencies. This will probably be included in the T3.6 firmware.
+
+JLCPCB have finished the boards, which will arrive within a week and then we start selling again on Tindie. I'm still looking for a courier here in South Korea to bypass using the post office, DHL may be possible if not too expensive.
+
 **10th September 2020** - I am 'finessing' the filter cutoff response as I wait for the PCBs to arrive from JLCPCB. The idea is the alter the cutoff width to allow deep bass at low cutoff and sharper response higher up. I think it sounds about right now. This adds 'character', of course. I'll add this to the T3.6 firmware which is at 1.24 now.
 
 **6th September 2020** - Firmware 1.23 for the current Teesny 3.6 version of TSynth is released. This adds support for MIDI CC from the panel controls to be transmitted over USB Host and Client MIDI ports, which is useful when recording control changes while sequencing. Also a VU Meter that shows amplitude of the audio signal - not a true VU meter. This is the last update and any further firmware will be bug fixes only. Much of the features developed in the new TSynth are now in current TSynth.
