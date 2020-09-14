@@ -29,8 +29,8 @@ Oscillators
 - Dedicated LFO for pitch mod (can be retriggered by note on), Sine/Triangle/Sawtooth/Ramp/Square/S&H waveforms
 - Pitch can be modulated by filter envelope (+/-)
 - Oscillator FX - XOR ‘Ring Mod’ (creates lots of harmonics with certain waveforms) and X Mod 'Cross Modulation' bell-like sounds.
-- Dynamic Unison with all 24 oscillators detunable from each other - one, two, three or fours can be played and oscillators distributed
-- Chord Unison all oscillators play a chord selected from detune - major, minor, diminshed...
+- Dynamic Unison with all 24 oscillators detunable from each other - one, two, three or four notes can be played with oscillators distributed among them
+- Chord Unison with all oscillators playing a chord selected from detune control - major, minor, diminshed...
 - Polyphonic Glide with variable time
 
 Filter
@@ -42,7 +42,7 @@ Filter
 Amplifier
 - Dedicated ADSR envelope
 - Volume for headphone output
-- Effect amount and mix  - currently for stereo ensemble chorus rate and mix but could be set up to allow choices in programmer
+- Effect amount and mix  - currently for stereo ensemble chorus rate and mix but could be set up to allow choices in Settings menu
 
 Programmer
 - 160x80 IPS colour display
