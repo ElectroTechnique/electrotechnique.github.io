@@ -7,8 +7,7 @@ Questions: info@electrotechnique.cc
 
 PCB and front panel are now available (when there's stock...) from the [Tindie Store](https://www.tindie.com/stores/electrotechnique/)
 
-Github has [source code, model files and documents](https://github.com/ElectroTechnique/TSynth-Teensy4.1)
-
+Github has [source code, model files and documents](https://github.com/ElectroTechnique/)
 
 Build Guide and User Manual for T4.1 (PCB Rev 1.2) are here - [Docs](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Documents)
 
@@ -29,8 +28,9 @@ Oscillators
 - Pink or white noise level
 - Dedicated LFO for pitch mod (can be retriggered by note on), Sine/Triangle/Sawtooth/Ramp/Square/S&H waveforms
 - Pitch can be modulated by filter envelope (+/-)
-- XOR ‘Ring Mod’ (creates lots of harmonics with certain waveforms)
+- Oscillator FX - XOR ‘Ring Mod’ (creates lots of harmonics with certain waveforms) and X Mod 'Cross Modulation' bell-like sounds.
 - Dynamic Unison with all 24 oscillators detunable from each other - one, two, three or fours can be played and oscillators distributed
+- Chord Unison all oscillators play a chord selected from detune - major, minor, diminshed...
 - Polyphonic Glide with variable time
 
 Filter
@@ -83,6 +83,8 @@ TSynth patch saving and recall works like an analogue polysynth from the late 70
 ![](pcb.jpg)
 
 # Latest News
+**15th September 2020** -  Cross modulation! OscFX has another mode (like unison) that you access by holding for 1 second. Cross modulation FM modulates one oscillator with the other, and in the case of TSynth, both modulate each other. By adjusting Osc Mix, this makes one or the other or both oscillators sound with cross mod from the other.
+
 **14th September 2020** - Filter frequency cutoff is now 8 bit, 256 values instead of 127, for smoother changes particularly at low frequencies. This will probably be included in the T3.6 firmware.
 
 JLCPCB have finished the boards, which will arrive within a week and then we start selling again on Tindie. I'm still looking for a courier here in South Korea to bypass using the post office, DHL may be possible if not too expensive.
