@@ -44,39 +44,21 @@ Amplifier
 - Volume for headphone output
 - Effect amount and mix  - currently for stereo ensemble chorus rate and mix but could be set up to allow choices in Settings menu
 
-Programmer
-- 160x80 IPS colour display
+Settings Menu
 - Encoder with button for data entry, Back button for menu navigation
 - Save and Delete buttons for storing patches, holding Settings initialises the current patch to match the panel controls. Holding the Save button takes you into a patch deletion page.
+- Velocity curve, Pitch Bend and Mod Wheel range, VU Meter, Oscilloscope display, Bass enhance, MIDI In and Out channel.
 - The Settings menu makes the synth very flexible with future possibilities for changing User waveforms, alternative filters, alternative effects with further parameter settings.
 
 MIDI
 - USB HOST MIDI Class Compliant (direct connection to MIDI controller, no PC needed)
 - USB Client MIDI In from PC
 - MIDI In 5 pin DIN
-- MIDI thru 5 pin DIN
+- MIDI Thru 5 pin DIN
 
 Audio
 - SGTL5000 Audio Shield 16 bit, 44.1 kHz  Stereo out
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
-
-Hardware
-- Teensy 4.1 with SGTL5000 Audio Shield. Two 4067 multiplexers providing 32 channels from the pots into two ADCs. The rest of the pots and switches use remaining pins on Teensy
-- Enclosure is laser cut acrylic with PCB-base front panel and 3D printed end cheeks
-
-
-USE
-
-TSynth patch saving and recall works like an analogue polysynth from the late 70s (Prophet 5). When you recall a patch, all the front panel controls will be different values from those saved in the patch. Moving them will cause a jump to the current value.
-
-- Back button cancels current mode such as save, recall, delete and rename patches. Holding this for 1s is 'Panic', all notes off.
-
-- Recall shows list of patches. Use encoder to move through list. Enter button on encoder chooses highlighted patch or press Recall again. Recall also recalls the current patch settings if the panel controls have been altered. 
-
-- Save will save the current settings to a new patch at the end of the list or you can use the encoder to overwrite an existing patch. Press Save again to save it. If you want to name/rename the patch, press the encoder enter button and use the encoder and enter button to choose an alphanumeric name. Holding Save for 1s will go into a patch deletion mode. Use encoder and enter button to choose and delete patch. Patch numbers will be changed on the SD card to be consecutive again.
-
-- Settings is a menu for things not on the front panel such as pitch bend range, mod wheeel range, MIDI channel in and out, oscilloscope, controller value 'pick-up' and can be extended to other global functions. Holding this for 1s will initialise the synth with all the current panel control settings - the synth sounds the same as the controls are set.
-
 
 ![](fp.jpg)
 
