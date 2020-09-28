@@ -65,9 +65,6 @@ Audio
 ![](pcb.jpg)
 
 # Latest News
-**23rd September 2020**
-
-{% youtube http://youtu.be/ymccocF6hTs %}
 
 **23rd September 2020** -  T3.6 & T4.1 - Volume affects both digital and analogue audio. T3.6 firmware now at V1.27.
 
