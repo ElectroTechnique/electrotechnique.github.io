@@ -19,6 +19,7 @@ Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://git
 
 See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
 
+{% youtube uCA2L7CeWSE %}
 
 # Specifications
 
