@@ -17,7 +17,7 @@ Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://git
 
 **Current T3.6 firmware (PCB Rev 1.1) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Firmware)**
 
-See a [Youtube demo](https://youtu.be/ymccocF6hTs)
+See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
 
 
 # Specifications
