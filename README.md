@@ -65,6 +65,10 @@ Audio
 ![](pcb.jpg)
 
 # Latest News
+**23rd September 2020**
+
+{% youtube http://youtu.be/ymccocF6hTs %}
+
 **23rd September 2020** -  T3.6 & T4.1 - Volume affects both digital and analogue audio. T3.6 firmware now at V1.27.
 
 **17th September 2020** -  T3.6 version firmware now at V1.26 with improved ADC reading that decreases noise and increases the sensitivity of pot reads. AudioMemory is increased to 48. Filter cutoff now has 256 values, making low frequency sweeps smoother.
