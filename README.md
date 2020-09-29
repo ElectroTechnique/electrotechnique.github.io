@@ -23,12 +23,12 @@ Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://git
 See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
 
 Oscillators
-- Twelve voice polyphony (last note priority), two oscillators per voice, velocity sensitive, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level. Square, Sawtooth and Pulse waves are band-limited.
+- 12 voice polyphony (last note priority), two oscillators per voice, velocity sensitive, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level. Square, Sawtooth and Pulse waves are band-limited.
 - Pulse Width/Var Triangle can be set for each oscillator with PWM by dedicated LFO or from the filter envelope
 - Pink or white noise level
 - Dedicated LFO for pitch mod (can be retriggered by note on), Sine/Triangle/Sawtooth/Ramp/Square/S&H waveforms
 - Pitch can be modulated by filter envelope (+/-)
-- Oscillator FX - XOR ‘Ring Mod’ (creates lots of harmonics with certain waveforms) and X Mod 'Cross Modulation' bell-like sounds.
+- Oscillator FX - XOR creates lots of harmonics with certain waveforms and X Mod 'Cross Modulation' bell-like sounds.
 - Dynamic Unison with all 24 oscillators detunable from each other - one, two, three or four notes can be played with oscillators distributed among them
 - Chord Unison with all oscillators playing a chord selected from detune control - major, minor, diminshed...
 - Polyphonic Glide with variable time
@@ -41,14 +41,14 @@ Filter
 
 Amplifier
 - Dedicated ADSR envelope
-- Volume for headphone output
+- Volume
 - Effect amount and mix  - currently for stereo ensemble chorus rate and mix but could be set up to allow choices in Settings menu
 
-Settings Menu
+Patch & Program Buttons
 - Encoder with button for data entry, Back button for menu navigation
-- Save and Delete buttons for storing patches, holding Settings initialises the current patch to match the panel controls. Holding the Save button takes you into a patch deletion page.
-- Velocity curve, Pitch Bend and Mod Wheel range, VU Meter, Oscilloscope display, Bass enhance, MIDI In and Out channel.
-- The Settings menu makes the synth very flexible with future possibilities for changing User waveforms, alternative filters, alternative effects with further parameter settings.
+- Save and Delete buttons for storing patches
+- Holding Settings initialises the current patch to match the panel controls. Holding the Save button takes you into a patch deletion page.
+- Settings Menu - Velocity curve, Pitch Bend and Mod Wheel range, VU Meter, Oscilloscope display, Bass enhance, MIDI In and Out channel.
 
 MIDI
 - USB HOST MIDI Class Compliant (direct connection to MIDI controller, no PC needed)
