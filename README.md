@@ -12,11 +12,10 @@ PCB and front panel are now available (when there's stock...) from the [Tindie S
 Github has [source code, model files and documents](https://github.com/ElectroTechnique/)
 
 Build Guide and User Manual for T4.1 (PCB Rev 1.2) are here - [Docs](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Documents)
-
-Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Docs)
-
 **Current T4.1 firmware (PCB Rev 1.2) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware)**
 
+
+Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Docs)
 **Current T3.6 firmware (PCB Rev 1.1) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Firmware)**
 
 See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
