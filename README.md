@@ -18,10 +18,9 @@ Build Guide and User Manual for T4.1 (PCB Rev 1.2) are here - [Docs](https://git
 Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Docs)  
 **T3.6 firmware (PCB Rev 1.1) is here - [Firmware](https://github.com/ElectroTechnique/TSynth-for-Teensy3.6/tree/master/Firmware)**
 
+
+# Specifications  
 See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
-
-
-# Specifications
 
 Oscillators
 - Twelve voice polyphony (last note priority), two oscillators per voice, velocity sensitive, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level. Square, Sawtooth and Pulse waves are band-limited.
