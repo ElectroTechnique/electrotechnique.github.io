@@ -5,6 +5,8 @@
 The pcb and front panel as seen below are available from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure are also available.
 Questions: info@electrotechnique.cc
 
+## I am looking for re-sellers with an online presence to take front panels and PCBs directly from the manufacturer and sell, either bare or as a kit. Please contact me.
+
 ## Go to [Latest News](#news)
 
 PCB and front panel are now available (when there's stock...) from the [Tindie Store](https://www.tindie.com/stores/electrotechnique/)
