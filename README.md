@@ -7,7 +7,7 @@ Questions: info@electrotechnique.cc
 
 ### I am looking for re-sellers with an online presence to take front panels and PCBs directly from the manufacturer and sell, either bare or as a kit. Please contact me.
 
-#### If you want to offer and sell buyers an enclosure, the 3D models for end cheeks are available with the SVG files for the laser cut sides [here] (https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Mechanical)
+#### If you want to offer and sell buyers an enclosure, the 3D models for end cheeks are available with the SVG files for the laser cut sides [here] (https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Mechanical/)
 
 ## Go to [Latest News](#news)
 
