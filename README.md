@@ -1,4 +1,4 @@
-![](tindie-logo.jpg) [Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
+![](tindie-logo.jpg)  [Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
 ![](TSynth.jpg)
 
