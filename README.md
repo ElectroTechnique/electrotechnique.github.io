@@ -1,3 +1,5 @@
+![https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/](tindie-logo.jpg) BUlk orders for resellers available on Tindie
+
 ![](TSynth.jpg)
 
 # Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
