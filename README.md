@@ -1,6 +1,7 @@
  
 ## RESELLERS
 [![Coq Au Lo Res](coq.png "Coq Au Lo Res - Germany")](https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/)
+
 [![inpublic space](inpublic.png "inpublic space - NY, US")](https://www.tindie.com/stores/inpublic/)
 
 
