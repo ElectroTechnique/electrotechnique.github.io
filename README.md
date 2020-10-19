@@ -1,11 +1,13 @@
  
 ## RESELLERS
-[![Coq Au Lo Res](coq.png "Coq Au Lo Res - Germany")Coq Au Lo Res - Germany] (https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/)
+[![Coq Au Lo Res](coq.png "Coq Au Lo Res - Germany")] (https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/)[Coq Au Lo Res - Germany](https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/)
 
-[![inpublic space](inpublic.png "inpublic space - NY, US")](https://www.tindie.com/stores/inpublic/)
+[![inpublic space](inpublic.png "inpublic space - NY, US")](https://www.tindie.com/stores/inpublic/)[inpublic space - NY, US](https://www.tindie.com/stores/inpublic/)
 
 
-[![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
+[![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
+
+
 
 ![](TSynth.jpg)
 
