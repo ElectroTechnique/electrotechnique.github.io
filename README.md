@@ -4,6 +4,7 @@
 
 [![inpublic space](inpublic.png "inpublic space - NY, US")](https://shop.inpublic.space/)[inpublic space - NY, US](https://shop.inpublic.space/)
 
+[![Analog Lab Swiss](als.png "Analog Lab Swiss - Switzerland")](https://www.etsy.com/fr/shop/AnalogLabSwiss)[Analog Lab Swiss - Switzerland](https://www.etsy.com/fr/shop/AnalogLabSwiss)
 
 [![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
