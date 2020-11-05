@@ -78,6 +78,8 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**5th November 2020** - There are now over 200 TSynth PCBs around the world. Most of those are now with resellers. A few have been made into finished units and can be seen around the internet. I'm waiting for some good demos to be uploaded showing what it is capable of.
+
 **24th October 2020** - I've received more than one email from people wanting full BOMs of everything. The full BOM is in the Build Guide. I've made a Mouser BOM available if you want to buy most of the components there. It doesn't include nuts and bolts, because they don't really stock suitable ones. TSynth is a low cost DIY synth rather than paint-by-numbers and get a Rembrandt reproduction (or Korg, Roland, Oberheim... in this case.) It's your synth! You built it!
 
 **8th October 2020** - More stock is coming and will be available next week. Still not enough but I will have some resellers offering kits, that I'll link to soon.
