@@ -79,6 +79,8 @@ Audio
 # <a name="news"></a> Latest News
 **6th November 2020** - More finished TSynths and some positive comments about its sound.
 
+![](in.jpg)
+
 ![](te.jpg)
 
 ![](LN_TS.jpg)
