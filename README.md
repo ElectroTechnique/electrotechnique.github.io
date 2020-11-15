@@ -78,6 +78,8 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**15th November 2020** - Firmware V2.02 - Volume control reverted back to controlling only headphone volume (noise from MCU was continuously in background at all volume levels from headphone output). USB digital and line out are at fixed volumes. Fix to code that sets the volume level due to velocity that made unison voices too loud. Some improvement to oscilloscope display -needs more work.
+
 **6th November 2020** - More finished TSynths and some positive comments about its sound.
 
 ![](in.jpg)
