@@ -78,7 +78,11 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
-**18th November 2020** - _I'm on ur social nets, lurkin!_ As the cool kids used to say.
+**19th November 2020** - I've soldered an 8MB PSRAM chip on a T4.1 and am experimenting to see if there is a performance improvement and the possibility of stable 16 voice polyphony. I had to go to 12 note because I suspected the T4.1 was failing to allocate enough RAM. Adding EXTMEM to the objects in the AudioPatching.h places them in the memory chip and the reported variable usage on compiling, is decreasing. So we'll see.
+
+![](PSRAM.jpg)
+
+**18th November 2020** - _I'm on ur social nets, lurkin!_ As the cool kids used to say. Some interesting finished TSynths out there.
 
 ![](C_TS.jpg)
 
