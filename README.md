@@ -78,6 +78,11 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**30th November 2020** - Firmware V2.03 fixes silly problem introduced to reinialise routine when QUANTISE_FACTOR and ADC reads were altered to give better performance. 
+
+I've also found the cause of the whirring noise that bleeds into the analogue output when the volume is raised. It's the display being updated by the displayThread(), probably digital noise from the SPI? I'll investigate.
+
+
 **19th November 2020** - I've soldered an 8MB PSRAM chip on a T4.1 and am experimenting to see if there is a performance improvement and the possibility of stable 16 voice polyphony. I had to go to 12 note because I suspected the T4.1 was failing to allocate enough RAM. Adding EXTMEM to the objects in the AudioPatching.h places them in the memory chip and the reported variable usage on compiling, is decreasing. So we'll see.
 
 ![](PSRAM.jpg)
