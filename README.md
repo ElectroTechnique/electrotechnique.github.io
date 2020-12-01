@@ -78,6 +78,8 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**1st December 2020** -Investigating the noise on the analogue output when volume is high has revealed that it's coming from the SPI clock line on the nearby display. A work-around that dimishes it greatly is to lower the clockspeed by setting #define ST7735_SPICLOCK in ST7735_t3.h to 8000000, although this lowers the display refresh times. If the noise is bothering you, [V2.03 of the firmware with the SPI clock speed lowered is here.](https://1drv.ms/u/s!Avbtf5PcDsB0i5NMmffwhAOq22VSzQ?e=OUQtdf)
+
 **30th November 2020** - Firmware V2.03 fixes silly problem introduced to reinialise routine when QUANTISE_FACTOR and ADC reads were altered to give better performance. 
 
 I've also found the cause of the whirring noise that bleeds into the analogue output when the volume is raised. It's the display being updated by the displayThread(), probably digital noise from the SPI? I'll investigate.
