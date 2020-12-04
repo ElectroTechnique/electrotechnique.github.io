@@ -78,7 +78,7 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
-**4th December 2020** - The noise on the analogue audio output when the volume is high, caused by the nearby SCK line of the display can be diminished greatly by outting a 100ohm resistor in series. If you want to make a modificatiuon, you need to break the track on the bottom side of the board that connects the T4.1 to the SCK pin of the display. Use a scalpel to remove some of the solder mask and solder the resistor in place. An SMD resistor would be best, but a through-hole one will work.
+**4th December 2020** - The noise on the analogue audio output when the volume is high, caused by the nearby SCK line of the display can be diminished greatly by putting a 100ohm resistor in series. If you want to make a modification, you need to break the track on the bottom side of the board that connects the T4.1 to the SCK pin of the display. Use a scalpel to remove some of the solder mask and solder the resistor in place. An SMD resistor would be best, but a through-hole one will work.
 
 ![](SCK_Fix.jpg)
 
