@@ -78,6 +78,10 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**4th December 2020** - The noise on the analogue audio output when the volume is high, caused by the nearby SCK line of the display can be diminished greatly by outting a 100ohm resistor in series. If you want to make a modificatiuon, you need to break the track on the bottom side of the board that connects the T4.1 to the SCK pin of the display. Use a scalpel to remove some of the solder mask and solder the resistor in place. An SMD resistor would be best, but a through-hole one will work.
+
+![](SCK_Fix.jpg)
+
 **1st December 2020** -Investigating the noise on the analogue output when volume is high has revealed that it's coming from the SPI clock line on the nearby display. A work-around that dimishes it greatly is to lower the clockspeed by setting #define ST7735_SPICLOCK in ST7735_t3.h to 8000000, although this lowers the display refresh times. If the noise is bothering you, [V2.03 of the firmware with the SPI clock speed lowered is here.](https://1drv.ms/u/s!Avbtf5PcDsB0i5NMmffwhAOq22VSzQ?e=OUQtdf)
 
 **30th November 2020** - Firmware V2.03 fixes silly problem introduced to reinialise routine when QUANTISE_FACTOR and ADC reads were altered to give better performance. 
