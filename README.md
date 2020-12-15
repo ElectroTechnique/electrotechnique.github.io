@@ -1,4 +1,10 @@
- 
+ ![](TSynth.jpg)
+
+# Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
+
+The pcb and front panel are available from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure are also available.
+Questions: info@electrotechnique.cc
+
 ## RESELLERS
 <table>
 <tbody>
@@ -16,14 +22,6 @@
 
 [![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
-
-
-![](TSynth.jpg)
-
-# Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
-
-The pcb and front panel as seen below are available from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure are also available.
-Questions: info@electrotechnique.cc
 
 #### If you want to offer and sell an enclosure, the 3D models for end cheeks are available with the SVG files for the laser cut sides [here](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Mechanical/)
 
