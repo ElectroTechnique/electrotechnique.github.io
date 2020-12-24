@@ -86,6 +86,8 @@ Audio
 
 # <a name="news"></a> Latest News
 
+**24th December 2020** - TSynth is one of [Tindie's sound products of the year](https://blog.tindie.com/2020/12/tindie-sound-gear-of-the-year-awards-2020/). The main PCB is being revised to add a soft/hard MIDI out/thru option, eliminiation of all noise from the analogue output and a connection to the display backlight in a future plan to add a possible soft on-off switch. The 6N138 optocoupler has been exchanged to a 6N137.
+
 **23rd December 2020** - Video round-up
 
 - [TSynth 4.1 demonstrating presets from Antonio](https://www.youtube.com/watch?v=z2674LdYW5I)
