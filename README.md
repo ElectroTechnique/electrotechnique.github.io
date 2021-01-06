@@ -85,6 +85,9 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**6th January 2021** - Survival Hacking's Davide Gatti has the next installment of his [TSynth build up](https://www.youtube.com/watch?v=MusKKTRkITU) on Youtube. He completes the case and solves a problem with the colour inversion of the display. Some of the displays available have slightly different screens even though they look the same. The colour inversion can be solved *probably* by changing `tft.invertDisplay(true);` to `tft.invertDisplay(false);` in `ST7735Display.h`. But as long as it's a 80x160 SPI display, you will get some help to get it working properly.
+
+![](DG_TS.jpg)
 
 **31st December 2020** - Rather a nice professional TSynth assembly video from [Davide Gatti - Survival Hacking](https://www.youtube.com/watch?v=46bIzyM_a88). It's in Italian and my Italian is as good as my Korean, which is 끔찍한. It must have come from a reseller, as I still cannot ship from Korea to Italy at a reasonable cost. It's in parts and at the end of part one, he's assembled it but not switched it on, so we'll have to wait until part two to see if it catches fire or plays nice sounds!
 
