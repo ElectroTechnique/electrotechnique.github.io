@@ -98,7 +98,7 @@ Audio
 - [TSynth 4.1 demonstrating presets from Antonio](https://www.youtube.com/watch?v=z2674LdYW5I)
 - [TSynth 3.6 played with stylophone! Has a larger display too.](https://www.youtube.com/watch?v=2ZOaFciLC5Y)
 
-**12th December 2020** - A UK only special on Tindie today! You need cheering up!
+**12th December 2020** - A UK only, special on Tindie today! You need cheering up!
 
 **5th December 2020** - A nice video showing the building of a [TSynth from Antonio](https://www.youtube.com/watch?v=OZFJm-TWLQ4)
 
