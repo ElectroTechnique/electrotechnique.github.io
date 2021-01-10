@@ -85,6 +85,10 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**8th January 2020** - Two TSynths from an early customer!
+
+![](BP_TS.jpg)
+
 **8th January 2020** - Having more than one TSynth may be a luxury(!) at the moment, but I've found that if you want to play and record more than one at a time in a DAW such as Ableton Live, you can use [ASIO4All](http://www.asio4all.org/). Install ASIO4All and in your DAW, select it as the audio device. Then in the ASIO4All control panel, you can select multiple input and output sources - such as more than one TSynth plus your other sound cards/interfaces. You can send MIDI to TSynth via USB and receive digital audio back. So, TSynth only requires the power/client USB cable and nothing else. There will be latency that you'll need to adjust for in your DAW, but it's a neat way to play multiple TSynths and record stereo digital audio without expensive audio interfaces and analogue audio cables.
 
 **6th January 2021** - Survival Hacking's Davide Gatti has the next installment of his [TSynth build up](https://www.youtube.com/watch?v=MusKKTRkITU) on Youtube. He completes the case and solves a problem with the colour inversion of the display. Some of the displays available have slightly different screens even though they look the same. The colour inversion can be solved *probably* by changing `tft.invertDisplay(true);` to `tft.invertDisplay(false);` in `ST7735Display.h`. But as long as it's a 80x160 SPI display, you will get some help to get it working properly.
