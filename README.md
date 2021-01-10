@@ -85,7 +85,7 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
-**8th January 2020** - Two TSynths from an early customer!
+**10th January 2020** - Two TSynths from an early customer!
 
 ![](BP_TS.jpg)
 
