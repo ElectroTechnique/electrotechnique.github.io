@@ -85,6 +85,15 @@ Audio
 ![](T41PCB.jpg)
 
 # <a name="news"></a> Latest News
+**11th January 2020** - The next revision of the PCB - V1.3 is ready and has been tested. 
+The changes are:
+- The 6N138 optocoupler is now a 6N137. JLCPCB ran out of the previous (half of them went on TSynths) and they have plenty of 6N137s.
+- MIDI thru is now a software thru/out with filtering options. V1.2 PCBs can use this if they are simply modified by cutting a trace and soldering a wire.
+- The display SCK line has been re-routed with a series 100ohm resistor to get rid of noise coming through the analogue audio at high volumes.
+- The display backlight is connected to pin 6 of the T4.1, so it could be turned off or PWM dimmed. This is in anticipation of a possible soft on/off switch or power saving mode, which requires the display backlight to turn off. Again, V1.2 PCBs can easily be modified by users, for this.
+
+There are no changes to the front panel (still V1.1) and controls, connectors, screws etc are in the same places. The code, firmware and updated build guide and user manuals will be available in the next few days.
+
 **10th January 2020** - Two TSynths from an early customer!
 
 ![](BP_TS.jpg)
