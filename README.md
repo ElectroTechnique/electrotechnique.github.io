@@ -68,19 +68,17 @@ Patch & Program Buttons
 - Encoder with button for data entry, Back button for menu navigation
 - Save and Delete buttons for storing patches
 - Holding Settings initialises the current patch to match the panel controls. Holding the Save button takes you into a patch deletion page.
-- Settings Menu - Velocity curve, Pitch Bend and Mod Wheel range, VU Meter, Oscilloscope display, Bass enhance, MIDI In and Out channel.
+- Settings Menu - Velocity curve, Pitch Bend and Mod Wheel range, VU Meter, oscilloscope display, bass enhance, MIDI In, Thru and Out options.
 
 MIDI
 - USB HOST MIDI Class Compliant (direct connection to MIDI controller, no PC needed)
 - USB Client MIDI In from PC
 - MIDI In 5 pin DIN
-- MIDI Thru 5 pin DIN
+- MIDI Thru/Out 5 pin DIN - configurable as a thru with filtering options or an out
 
 Audio
 - SGTL5000 Audio Shield 16 bit, 44.1 kHz  Stereo out
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
-
-![](fp.jpg)
 
 # <a name="news"></a> Latest News
 **11th January 2020** - The next revision of the PCB - V1.3 is ready and has been tested. 
