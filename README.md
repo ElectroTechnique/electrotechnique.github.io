@@ -82,8 +82,6 @@ Audio
 
 ![](fp.jpg)
 
-![](T41PCB.jpg)
-
 # <a name="news"></a> Latest News
 **11th January 2020** - The next revision of the PCB - V1.3 is ready and has been tested. 
 The changes are:
