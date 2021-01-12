@@ -81,6 +81,9 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**12th January 2020** - Code and firmware V2.10 is now released for V1.3 PCB support.
+See this 9page for guidance)[V1_2ToV1_3.md] on how to modify your V1.2 PCB to work as a V1.3.
+
 **11th January 2020** - The next revision of the PCB - V1.3 is ready and has been tested. 
 The changes are:
 - The 6N138 optocoupler is now a 6N137. JLCPCB ran out of the previous (half of them went on TSynths) and they have plenty of 6N137s.
