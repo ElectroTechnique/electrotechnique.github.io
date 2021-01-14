@@ -6,26 +6,6 @@ The pcb and front panel are available from Tindie.com with SMD 4067 multiplexers
 Questions: info@electrotechnique.cc
 
 ## RESELLERS
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-9wq8"><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/"><img src="coq.png" alt="Coq Au Lo Res" title="Coq Au Lo-Res - Germany"></a><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/">Germany</a></td>
-    <td class="tg-9wq8"><a href="https://www.munichen-audio.de/product_info.php?info=p107_electrotechnique-tsynth.html"><img src="ma.gif" alt="Munichen Audio" title="Munichen Audio - Germany"></a><a href="https://www.munichen-audio.de/product_info.php?info=p107_electrotechnique-tsynth.html">Germany</a></td>
-  </tr>
-  <tr>
-    <td class="tg-9wq8"><a href="https://shop.inpublic.space/"><img src="inpublic.png" alt="inpublic space" title="inpublic space - NY, US"></a><a href="https://shop.inpublic.space/">NY, US</a></td>
-    <td class="tg-9wq8"><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss"><img src="als.png" alt="Analog Lab Swiss" title="Analog Lab Swiss - Switzerland"></a><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss">Switzerland</a></td>
-  </tr>
-</tbody>
-</table>
 <table>
 <tbody>
   <tr>
