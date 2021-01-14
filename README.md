@@ -85,7 +85,7 @@ Audio
 **13th January 2021** - Survival Hacking's Davide Gatti has the third installment of his [TSynth build up on Youtube](https://www.youtube.com/watch?v=2jk79WchWcQ). He tests TSynth's capabilities in some depth, which makes me nervous to watch. But yeah, it sounds great!
 
 **12th January 2020** - Code and firmware V2.10 is now released for V1.3 PCB support.
-See this [page for guidance](V1_2ToV1_3.md) on how to modify your V1.2 PCB to work as a V1.3.
+See this [page for guidance](V1_2ToV1_3.md) on how to modify your V1.2 PCB to work as a V1.3. The firmware will always work on unmodified V1.2 PCBs, however.
 
 **11th January 2020** - The next revision of the PCB - V1.3 is ready and has been tested. 
 The changes are:
