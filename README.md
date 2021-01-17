@@ -22,8 +22,7 @@ Questions: info@electrotechnique.cc
 
 [![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
-
-#### If you want to offer and sell an enclosure, the 3D models for end cheeks are available with the SVG files for the laser cut sides [here](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Mechanical/)
+## [Discussion forum](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
 
 ## Go to [Latest News](#news)
 
@@ -82,6 +81,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**18th January 2021** - I've been asked by a number of people if there's a discussion forum, so I've created on on the [Github pages here.](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
+
 **13th January 2021** - Survival Hacking's Davide Gatti has the third installment of his [TSynth build up on Youtube](https://www.youtube.com/watch?v=2jk79WchWcQ). He tests TSynth's capabilities in some depth, which makes me nervous to watch. But yeah, it sounds great!
 
 **12th January 2020** - Code and firmware V2.10 is now released for V1.3 PCB support.
