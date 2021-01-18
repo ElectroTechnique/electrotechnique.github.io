@@ -113,6 +113,7 @@ There are no changes to the front panel (still V1.1) and controls, connectors, s
 
 **23rd December 2020** - Video round-up
 
+- [TSynth playing chords in this experimental set](https://www.youtube.com/watch?v=yMwQADX_V1o)
 - [TSynth 4.1 demonstrating presets from Antonio](https://www.youtube.com/watch?v=z2674LdYW5I)
 - [TSynth 3.6 played with stylophone! Has a larger display too.](https://www.youtube.com/watch?v=2ZOaFciLC5Y)
 
