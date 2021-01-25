@@ -81,7 +81,7 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
-**18th January 2021** - I've been asked by a number of people if there's a discussion forum, so I've created on on the [Github pages here.](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
+**18th January 2021** - I've been asked by a number of people if there's a discussion forum, so I've created one on the [Github pages here.](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
 
 **13th January 2021** - Survival Hacking's Davide Gatti has the third installment of his [TSynth build up on Youtube](https://www.youtube.com/watch?v=2jk79WchWcQ). He tests TSynth's capabilities in some depth, which makes me nervous to watch. But yeah, it sounds great!
 
