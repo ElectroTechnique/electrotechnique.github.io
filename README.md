@@ -81,6 +81,9 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**17th Febuary 2021** - [Analog Lab Swiss](https://www.etsy.com/fr/shop/AnalogLabSwiss) are now selling kits and fully built TSynths. Very nice choice of blue, black and white colour scheme!
+![](CA_TS.jpg)
+
 **4th Febuary 2021** - A number of people who bought IPS displays, possibly from kits supplied by resellers, are finding problems due to the screen module being slightly diffirent. The code needs adjusting, [please see this note.](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions/4)
 
 **18th January 2021** - I've been asked by a number of people if there's a discussion forum, so I've created one on the [Github pages here.](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
