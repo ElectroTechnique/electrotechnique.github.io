@@ -81,6 +81,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**18th Febuary 2021** - Survival Hacking's Davide Gatti has the fourth installment of his [TSynth build up on Youtube](https://www.youtube.com/watch?v=EhLHQo1h25U). He is showing how to convert a V1.2 PCB to a V1.3.
+
 **17th Febuary 2021** - [Analog Lab Swiss](https://www.etsy.com/fr/shop/AnalogLabSwiss) are now selling kits and fully built TSynths. Very nice choice of blue, black and white colour scheme!
 ![](CA_TS.jpg)
 
