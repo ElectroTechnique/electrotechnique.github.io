@@ -22,7 +22,7 @@ Questions: info@electrotechnique.cc
 
 [![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
-## [Discussion forum](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)      [Facebook Users Group](https://www.facebook.com/groups/418750379310464)
+## [Discussion forum](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)                   [Facebook Users Group](https://www.facebook.com/groups/418750379310464)
 
 ## Go to [Latest News](#news)
 
