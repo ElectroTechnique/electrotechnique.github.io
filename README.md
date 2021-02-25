@@ -24,6 +24,8 @@ Questions: info@electrotechnique.cc
 
 ## [Discussion forum](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions)
 
+## [Facebook Users Group](https://www.facebook.com/groups/418750379310464)
+
 ## Go to [Latest News](#news)
 
 PCB and front panel are now available (when there's stock...) from the [Tindie Store](https://www.tindie.com/stores/electrotechnique/)
