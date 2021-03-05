@@ -82,6 +82,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**5th March 2021** - Another nice TSynth demo on [Youtube from Paul Rau.](https://www.youtube.com/watch?v=dSeR_WddPIQ) Yes, I just lurk around the internet searching for my own synth.
+
 **25th Febuary 2021** - A [Facebook Group](https://www.facebook.com/groups/418750379310464) has been set up by a user for Tsynth builders.
 
 **18th Febuary 2021** - Survival Hacking's Davide Gatti has the fourth installment of his [TSynth build up on Youtube](https://www.youtube.com/watch?v=EhLHQo1h25U). He is showing how to convert a V1.2 PCB to a V1.3.
