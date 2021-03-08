@@ -82,6 +82,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**8th March 2021** - DIY synth reseller Analog Lab Swiss [Analog Lab Swiss](https://www.etsy.com/shop/AnalogLabSwiss) has created a [website where patches for synths including TSynth](https://synthpatch.ch/) can be shared.
+
 **5th March 2021** - Another nice TSynth demo on [Youtube from Paul Rau.](https://www.youtube.com/watch?v=dSeR_WddPIQ) Yes, I just lurk around the internet searching for my own synth.
 
 **25th Febuary 2021** - A [Facebook Group](https://www.facebook.com/groups/418750379310464) has been set up by a user for Tsynth builders.
