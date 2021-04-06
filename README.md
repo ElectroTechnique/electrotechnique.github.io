@@ -82,6 +82,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**6th April 2021** - Firmware V2.11 fixes some minor parameter save and recall bugs and the stereo chorus has a slightly richer sound by adding two more taps. Teensyduino 1.54 beta versions have a problem with audio (interuptions every few seconds).
+
 **8th March 2021** - DIY synth reseller Analog Lab Swiss [Analog Lab Swiss](https://www.etsy.com/shop/AnalogLabSwiss) has created a [website where patches for synths including TSynth](https://synthpatch.ch/) can be shared.
 
 **5th March 2021** - Another nice TSynth demo on [Youtube from Paul Rau.](https://www.youtube.com/watch?v=dSeR_WddPIQ) Yes, I just lurk around the internet searching for my own synth.
