@@ -82,6 +82,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**13th April 2021** - It's taken a little while but finally there are now better programmers looking at the code and making changes and pull requests. I'll start adding people as _collaborators_, which gives them permissions to change the code and merge pull requests.
+
 **11th April 2021** - Firmware V2.12 for Teensy4.1 (PCB Revs 1.2/1.3) and V1.29 for Teensy3.6 (PCB Rev 1.1) has been released. This is a significant release as it improves the sound of TSynth. Stereo chorus had discontinuities causing noise, which was particularly noticeable with high pitched sounds. Vince Pearson has worked to greatly reduce this and the stereo chorus is much better now.
 
 **6th April 2021** - Firmware V2.11 fixes some minor parameter save and recall bugs and the stereo chorus has a slightly richer sound by adding two more taps. Teensyduino 1.54 beta versions have a problem with audio (interuptions every few seconds).
