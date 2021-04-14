@@ -86,7 +86,7 @@ Audio
 
 I've also had requests for the KiCAD PCB files. The code is open source and the schematic is available, along with files to make the enclosure etc. The KiCad PCB files for the front panel are also available to resellers and anyone who asks. The reason for this is that JLCPCB can't be trusted not to scratch them! So I no longer waste time and money ordering front panels for resellers and then dealing with JLCPCB customer "service". I may release the main PCB files sometime in the future. In the meantime if you want to make your own PCBs and sell them, then it's your business. The only request I have is that it's clear they originated from you and not ElectroTechnique.
 
-**11th April 2021** - Firmware V2.13 for Teensy4.1 (PCB Revs 1.2/1.3) and V1.29 for Teensy3.6 (PCB Rev 1.1) has been released. This is a significant release as it improves the sound of TSynth. Stereo chorus had discontinuities causing noise, which was particularly noticeable with high pitched sounds. Vince Pearson has worked to greatly reduce this and the stereo chorus is much better now.
+**11th April 2021** - Firmware V2.14 for Teensy4.1 (PCB Revs 1.2/1.3) and V1.29 for Teensy3.6 (PCB Rev 1.1) has been released. This is a significant release as it improves the sound of TSynth. Stereo chorus had discontinuities causing noise, which was particularly noticeable with high pitched sounds. Vince Pearson has worked to greatly reduce this and the stereo chorus is much better now.
 
 **6th April 2021** - Firmware V2.11 fixes some minor parameter save and recall bugs and the stereo chorus has a slightly richer sound by adding two more taps. Teensyduino 1.54 beta versions have a problem with audio (interuptions every few seconds).
 
