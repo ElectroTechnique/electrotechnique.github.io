@@ -1,6 +1,6 @@
  ![](TSynth.jpg)
 
-# Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
+# TSynth is a Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
 
 The pcb and front panel are available from Tindie.com with SMD 4067 multiplexers, 6N138 opto-isolator, capacitors and resistors fitted. The entire cost of parts to build TSynth will be around $99 if you buy components from the cheaper suppliers and the build time around two hours to solder. Plans for a 3D printed/laser cut enclosure are also available.
 Questions: info@electrotechnique.cc
