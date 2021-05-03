@@ -82,6 +82,7 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**3rd May 2021** I think it's almost a year since the first TSynths were offered for sale for Teensy 3.6. Some more development work with the current version is underway. The T4.1 is very capable. A more knoweledgable and experienced programmer is working at the moment and the code has been refactored to be easier to extend and scale. Another really nice [Youtube demo here](https://www.youtube.com/watch?v=_jDlkQcBM0Y)
 **13th April 2021** - It's taken a little while but finally there are now better programmers looking at the code and making changes and pull requests. I'll start adding people as _collaborators_, which gives them permissions to change the code and merge pull requests.
 
 I've also had requests for the KiCAD PCB files. The code is open source and the schematic is available, along with files to make the enclosure etc. The KiCad PCB files for the front panel are also available to resellers and anyone who asks. The reason for this is that JLCPCB can't be trusted not to scratch them! So I no longer waste time and money ordering front panels for resellers and then dealing with JLCPCB customer "service". I may release the main PCB files sometime in the future. In the meantime if you want to make your own PCBs and sell them, then it's your business. The only request I have is that it's clear they originated from you and not ElectroTechnique.
