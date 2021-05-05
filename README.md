@@ -82,6 +82,11 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**6th May 2021** Some other fabulous Teensy 4 based synths out there, that really demonstrate the power of the MCU and what you can do with time and talent:
+
+- [Wavetable prototype](https://www.youtube.com/watch?v=B_KyNA13FWU)  
+- [M8 Tracker available to buy](https://dirtywave.com/)
+
 **3rd May 2021** I think it's almost a year since the first TSynths were offered for sale for Teensy 3.6. Some more development work with the current version is underway. The T4.1 is very capable. A more knoweledgable and experienced programmer is working at the moment and the code has been refactored to be easier to extend and scale. Another really nice [Youtube demo here](https://www.youtube.com/watch?v=_jDlkQcBM0Y)
 
 **13th April 2021** - It's taken a little while but finally there are now better programmers looking at the code and making changes and pull requests. I'll start adding people as _collaborators_, which gives them permissions to change the code and merge pull requests.
