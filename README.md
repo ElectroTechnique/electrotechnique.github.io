@@ -86,6 +86,7 @@ Audio
 
 - [Wavetable prototype](https://www.youtube.com/watch?v=B_KyNA13FWU)  
 - [M8 Tracker available to buy](https://dirtywave.com/)
+- [16-voice polyphonic synth using Teensy 4.0](https://www.youtube.com/watch?v=bujFKE4tqe4)
 
 **3rd May 2021** I think it's almost a year since the first TSynths were offered for sale for Teensy 3.6. Some more development work with the current version is underway. The T4.1 is very capable. A more knoweledgable and experienced programmer is working at the moment and the code has been refactored to be easier to extend and scale. Another really nice [Youtube demo here](https://www.youtube.com/watch?v=_jDlkQcBM0Y), [here](https://www.youtube.com/watch?v=lOP6-ZvF-0o), errr.. [here](https://www.youtube.com/watch?v=8wTKX7kb9w8) and [here!](https://www.youtube.com/watch?v=uN7DcKlAI2k)
 
