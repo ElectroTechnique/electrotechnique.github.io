@@ -41,7 +41,7 @@ Build Guide and User Manual for T3.6 (PCB Rev 1.1) are here - [Docs](https://git
 
 # Specifications  
 - See a [Youtube demo](https://www.youtube.com/watch?v=uCA2L7CeWSE)
-- See a [Youtube demo](https://www.youtube.com/watch?v=2jk79WchWcQ) by someone with some talent (50:28)
+- See a [Youtube demo](https://www.youtube.com/watch?v=_jDlkQcBM0Y) by someone with some talent (plus several more demos)
 
 Oscillators
 - 12 voice polyphony (last note priority), two oscillators per voice, velocity sensitive, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level. Square, Sawtooth and Pulse waves are band-limited.
