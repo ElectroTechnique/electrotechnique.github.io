@@ -52,16 +52,17 @@ Oscillators
 - Oscillator FX - XOR creates lots of harmonics with certain waveforms and X Mod 'Cross Modulation' bell-like sounds.
 - Dynamic Unison with all 24 oscillators detunable from each other - one, two, three or four notes can be played with oscillators distributed among them
 - Chord Unison with all oscillators playing a chord selected from detune control - major, minor, diminshed...
+- Monophonic mode - first, last, highest, lowest note priorities.
 - Polyphonic Glide with variable time
 
 Filter
 - State variable 12dB filter (SVF) with continuous mix between LP and HP (provides notch filter) and BP
 - Cutoff freq and resonance
-- Cutoff can be modulated by dedicated ADSR envelope (+/-), dedicated LFO
+- Cutoff can be modulated by dedicated exponential ADSR envelope (+/-), dedicated LFO
 - LFO has same waveforms as pitch LFO (can be retriggered by note on)  and rate can be set to match MIDI clock (tempo) with variable time division (1,3/4,1/2,1/4,1/8...)
 
 Amplifier
-- Dedicated ADSR envelope
+- Dedicated ADSR envelope with exponential attack (adjustable), decay and release stages
 - Volume
 - Effect amount and mix  - currently for stereo ensemble chorus rate and mix but could be set up to allow choices in Settings menu
 
