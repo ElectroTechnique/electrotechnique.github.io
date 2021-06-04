@@ -83,6 +83,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**4th June 2021** - [Firmware V2.21](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) is released, which has an improved resonance range that will go down to 0.71 - the actual minimum for a 12dB filter. Previously there was noise, which has been cured.
+
 **17th May 2021** Germany reseller [Coq au Lo-res](https://www.coqaulores.de/) are offering discounts on TSynth items including the kit, with the following code **05TSynthophoria21** until the end of the month.
 
 **11th May 2021** A significant update to the firmware for Teensy 4.1 based V1.2 & 1.3 PCBs. [V2.20](https://github.com/ElectroTechnique/TSynth-Teensy4.1/releases/tag/V2.20) has monophonic modes added to the Settings menu. These work on a patch basis and are useful if you want a monophonic playing response. There is a choice of first, last, highest and lowest note priorities. Also both filter and amplifier envelopes have an exponential instead of linear response. The Settings menu has an adjustment value for the Attack response of both, but the most noticable change is that the release stage is smooth and doesn't end so abruptly. This is a global setting. See the updated User Guide for details on this. Also, the code has been considerably refactored for better design and expandability. I'm sure if you want to make your own changes or see how it works, you'll appreciate this. I have Will and Vince to thank for this work. This is why it's open source.
