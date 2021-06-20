@@ -83,6 +83,10 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**20th June 2021** - [Firmware V2.30](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) features Vince's exponential Glide option - accessible via the Settings Menu. This mimics analogue synth behaviour where the convergence to the note pitch slows at the end, like a capacitor charge/discharge. Also the source code features the refactoring carried out by Will. Apart from the better design practice that experienced developers will recognise, it has made a major improvement to the handling of memory. Global variable usage has dropped and the AudioMemory setting (memory for audio objects) has dropped from 97 to 60.
+
+Some exciting live atmospherics from [m_1_k_a_c_h_u](https://www.instagram.com/p/CQVH9QgHF9x/) on Instagram.
+
 **4th June 2021** - [Firmware V2.21](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) is released, which has an improved resonance range that will go down to 0.71 - the actual minimum for a 12dB filter. Previously there was noise, which has been cured.
 
 **17th May 2021** Germany reseller [Coq au Lo-res](https://www.coqaulores.de/) are offering discounts on TSynth items including the kit, with the following code **05TSynthophoria21** until the end of the month.
