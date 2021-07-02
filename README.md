@@ -83,6 +83,8 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**2nd July 2021** - [Firmware V2.31](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) fixes crash in unison mode with monophonic option.
+
 **20th June 2021** - [Firmware V2.30](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) features Vince's exponential Glide option - accessible via the Settings Menu. This mimics analogue synth behaviour where the convergence to the note pitch slows at the end, like a capacitor charge/discharge. Also the source code features the refactoring carried out by Will. Apart from the better design practice that experienced developers will recognise, it has made a major improvement to the handling of memory. Global variable usage has dropped and the AudioMemory setting (memory for audio objects) has dropped from 97 to 60.
 
 Some exciting live atmospherics from [m_1_k_a_c_h_u](https://www.instagram.com/p/CQVH9QgHF9x/) on Instagram.
