@@ -85,6 +85,10 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**11th August 2021** - [Sparkfun electronics](https://www.sparkfun.com/micromod) released the MicroMod version of Teensy last month. It's essentially a Teensy 4 on a small M.2 style board. The idea is that you can swap MicroMod processor boards with various carrier boards - in theory. I was interested in seeing whether a new TSynth main PCB using a Teensy MicroMod would be possible, with an audio DAC board - probably a PCM5102A. This is easier to build without having to mount the T4.1 and Audio Board, then soldering the USB client pads, which some people have had problems with. What do you think? A V1.4 with a Teensy MicroMod? The micro SD card would be on the main PCB near the edge to make it accessible from outside.
+
+![](TeensyMM.jpg)
+
 **2nd July 2021** - [Firmware V2.31](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) fixes crash in unison mode with monophonic option.
 
 **20th June 2021** - [Firmware V2.30](https://github.com/ElectroTechnique/TSynth-Teensy4.1/tree/master/Firmware) features Vince's exponential Glide option - accessible via the Settings Menu. This mimics analogue synth behaviour where the convergence to the note pitch slows at the end, like a capacitor charge/discharge. Also the source code features the refactoring carried out by Will. Apart from the better design practice that experienced developers will recognise, it has made a major improvement to the handling of memory. Global variable usage has dropped and the AudioMemory setting (memory for audio objects) has dropped from 97 to 60.
