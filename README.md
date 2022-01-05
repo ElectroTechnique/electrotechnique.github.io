@@ -85,6 +85,9 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+
+**5th January 2022** - Updated firmware V2.32. Fix PW amount for Osc 2 not updated from patch. 
+
 **11th August 2021** - [Sparkfun electronics](https://www.sparkfun.com/micromod) released the MicroMod version of Teensy last month. It's essentially a Teensy 4 on a small M.2 style board. The idea is that you can swap MicroMod processor boards with various carrier boards - in theory. I was interested in seeing whether a new TSynth main PCB using a Teensy MicroMod would be possible, with an audio DAC board - probably a PCM5102A. This is easier to build without having to mount the T4.1 and Audio Board, then soldering the USB client pads, which some people have had problems with. What do you think? A V1.4 with a Teensy MicroMod? The micro SD card would be on the main PCB near the edge to make it accessible from outside.
 
 ![](TeensyMM.jpg)
