@@ -85,6 +85,7 @@ Audio
 - USB Audio in/out—appears as 16 bit, 44.1 kHz  audio interface on PC
 
 # <a name="news"></a> Latest News
+**29th March 2022** - Firmware V2.33 released - Oscilloscope and memory improvements, exp amp and filter shape defaults.
 
 **14th February 2022** - Lurking around Youtube again, [I saw this](https://www.youtube.com/watch?v=zcAdx4nFmlk). There are a few custom TSynths around now, including one in its own keyboard.
 
