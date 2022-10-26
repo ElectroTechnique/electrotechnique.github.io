@@ -9,12 +9,11 @@ Questions: info@electrotechnique.cc
 <table>
 <tbody>
   <tr>
-    <td><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/"><img src="coq.png" alt="Coq Au Lo Res" title="Coq Au Lo-Res - Germany"></a><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/">Germany</a></td>
-    <td><a href="https://www.munichen-audio.de/?cat=c30_Electrotechnique-electrotechnique.html"><img src="ma.gif" alt="Munichen Audio" title="Munichen Audio - Germany"></a><a href="https://www.munichen-audio.de/?cat=c30_Electrotechnique-electrotechnique.html">Germany</a></td>
+    <td><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/"><img src="coq.png" alt="Coq Au Lo Res" title="Coq Au Lo-Res - Germany"></a><a href="https://www.coqaulores.de/produkt/electrotechnique-tsynth-pcb-front-panel-pack/">Coq Au Lo Res - Germany</a></td>
   </tr>
   <tr>
-    <td><a href="https://shop.inpublic.space/"><img src="inpublic.png" alt="inpublic space" title="inpublic space - NY, US"></a><a href="https://shop.inpublic.space/">NY, US</a></td>
-    <td><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss"><img src="als.png" alt="Analog Lab Swiss" title="Analog Lab Swiss - Switzerland"></a><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss">Switzerland</a></td>
+    <td><a href="https://shop.inpublic.space/"><img src="inpublic.png" alt="inpublic space" title="inpublic space - NY, US"></a><a href="https://shop.inpublic.space/">Inpublic - NY, US</a></td>
+    <td><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss"><img src="als.png" alt="Analog Lab Swiss" title="Analog Lab Swiss - Switzerland"></a><a href="https://www.etsy.com/fr/shop/AnalogLabSwiss"> Analog Lab Swiss - Switzerland</a></td>
   </tr>
 </tbody>
 </table>
