@@ -1,3 +1,6 @@
+
+[![](Logo.png)](https://electrotechnique.github.io)
+
 ![](TSynth.jpg)
 
 # TSynth is a Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
@@ -13,7 +16,7 @@ Questions: info@electrotechnique.cc
  ![Inpublic](inpublic.png)		[Inpublic - NY, USA](https://shop.inpublic.space/)
  
 ---
-[![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)[Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
+[![Bulk orders for resellers available on Tindie](tindie-logo.png "Bulk Orders - Worldwide")](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)  [Bulk orders for resellers available on Tindie](https://www.tindie.com/products/electrotechnique/tsynth-teensy-based-diy-synth-bulk-orders/)
 
 [Discussion forum](https://github.com/ElectroTechnique/electrotechnique.github.io/discussions) 
 
