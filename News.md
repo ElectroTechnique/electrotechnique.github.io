@@ -1,6 +1,14 @@
 [![](Logo.png)](https://electrotechnique.github.io)
 
+ ### [MOMENTUM](https://electrotechnique.cc/Momentum)    -    [TSYNTH](https://electrotechnique.cc/TSynth)     -    [NEWS](https://electrotechnique.cc/News) -    [BUY](https://www.tindie.com/stores/electrotechnique/)
+ 
+
 # <a name="news"></a> Latest News
+**22nd June 2023** - [Momentum](https://electrotechnique.cc/Momentum) - 12 voice polyphonic synthesizer based on Teensy Mivcromod microcontroller - coming soon.
+
+![Momentum](MomentumMockup.png)
+
+
 **29th March 2022** - Firmware V2.33 released - Oscilloscope and memory improvements, exp amp and filter shape defaults.
 
 **14th February 2022** - Lurking around Youtube again, [I saw this](https://www.youtube.com/watch?v=zcAdx4nFmlk). There are a few custom TSynths around now, including one in its own keyboard.
