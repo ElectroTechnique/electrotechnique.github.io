@@ -1,3 +1,6 @@
+[![](Logo.png)](https://electrotechnique.github.io)
+
+ 
  ![](TSynth.jpg)
 
 # TSynth is a Teensy 4.1 based synthesizer using PJRC Audio Board and Audio Lib
