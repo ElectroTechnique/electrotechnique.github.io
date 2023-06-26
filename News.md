@@ -4,7 +4,7 @@
  
 
 # <a name="news"></a> Latest News
-**22nd June 2023** - [Momentum](https://electrotechnique.cc/Momentum) - 12 voice polyphonic synthesizer based on Teensy Mivcromod microcontroller - coming soon.
+**22nd June 2023** - [Momentum](https://electrotechnique.cc/Momentum) - 12 voice polyphonic synthesizer based on Teensy Micromod microcontroller - coming soon.
 
 ![Momentum](MomentumMockup.png)
 
