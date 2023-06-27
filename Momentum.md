@@ -16,7 +16,7 @@
 - 320x240 TFT colour display
 - SD card socket
 
-<table border: 0px>
+<table>
   <tr>
     <td><img src="Momentum1.jpg"></td>
     <td><img src="Momentum2.jpg"></td>
