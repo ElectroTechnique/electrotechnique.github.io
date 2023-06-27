@@ -18,8 +18,8 @@
 
 <table border: none>
   <tr>
-    <td>![Momentum1](Momentum1.jpg)</td>
-    <td>![Momentum2](Momentum2.jpg)</td>
+    <td><img src="Momentum1.jpg"></td>
+    <td><img src="Momentum2.jpg"></td>
   </tr>
 </table>
 
