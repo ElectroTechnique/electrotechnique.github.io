@@ -16,6 +16,13 @@
 - 320x240 TFT colour display
 - SD card socket
 
+<table border: none>
+  <tr>
+    <td>![Momentum1](Momentum1.jpg)</td>
+    <td>![Momentum2](Momentum2.jpg)</td>
+  </tr>
+</table>
+
 Oscillators
 - 12 voice polyphony (last note priority), two oscillators per voice, velocity sensitive, detunable with +/- 2 octaves range, Sine/Sample & Hold (like tuned noise)/Square/Sawtooth/Ramp/PWM/Var Triangle/User waveforms and level. Square, Sawtooth and Pulse waves are band-limited.
 - Pulse Width/Var Triangle can be set for each oscillator with PWM by a dedicated LFO or from the filter envelope
