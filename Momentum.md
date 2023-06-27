@@ -5,6 +5,7 @@
 ![Momentum](MomentumMockup.png)
 
 ## DIY 12-voice virtual analogue polyphonic synthesizer based on [TSynth](https://electrotechnique.cc/TSynth)
+### Coming soon as a kit and fully built on Tindie
 
 # Specifications  
 
