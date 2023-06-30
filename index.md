@@ -5,4 +5,4 @@
  [![](MomentumMockup.png)](https://electrotechnique.cc/Momentum) 
 
 
-# Momentum is a Teensy Micromod based 12 voice polyphonic synthesizer coming soon
+# Momentum is a Teensy Micromod based 12 voice polyphonic synthesizer coming soon - see [NEWS](https://electrotechnique.cc/News)
