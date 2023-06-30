@@ -7,7 +7,7 @@
 **30th June 2023** - Some more details about [Momentum](https://electrotechnique.cc/Momentum) and hello to the [TSynth Facebook Users Group](https://www.facebook.com/groups/418750379310464). The PCB and design were mainly finished two years ago, but it's taken time to write the firmware. It has all the features that were intended and I'm going to release it in August as a complete (perhaps with or without the Teensy Micromod) kit and some completely assembled. Over time I'll probably offer it to resellers. 
 It basically has the same sound as TSynth, but offers it in a smaller unit with more features that allow for further development. It was designed to be easier and probably cheaper to build than a TSynth with it's laser-cut/3D printed case. The case is just a 3D printed tray with a PCB front panel. There is about the same amount of soldering, but without the problems of soldering the Teensy 4.1 and audio shield. Yes, the cut-out for the audio socket is because I used the small PCM5102A PCBs that cost less than $2 and have the support components with them. This could have been already soldered on the main PCB, but it raises the cost and it's part of the DIY nature of Momentum.
 
-I hope that Momentum will see the same level of interest as TSynth. The cost of the complete DIY kit is going to be about $200.
+I hope that Momentum will see the same level of interest as TSynth. The cost of the complete DIY kit is going to be about $200. Electrotechnique appears to still be the only synth manufacturer in South Korea and is based on Jeju Island.
 
 ![Momentum](MomentumPCB.jpg)
 
