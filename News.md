@@ -4,6 +4,13 @@
  
 
 # <a name="news"></a> Latest News
+**8th August 2023** - I'm still planning on offering Momentum by the end of this month. It'll be via Tindie again. Currently I'm getting components mostly from Digikey. I cannot buy the Teensy Micromods directly from Sparkfun, as they seem to think $90+ FedEx shipping is acceptable, so I have to buy them from Digikey which is $6 expensive, but offer free DHL express delivery for $50+ orders. You do the maths!
+
+I'll also mention that very soon I'm selling a USB isolator on Tindie. Isolators are essential if you plug a synth into the USB port of a pc - such as TSynth and Momentum. Without an isolator, there is very strong digital noise plus usually, a ground-loop hum on the analogue audio. USB isolators are very cheap and readily available from the usual Aliexpress/eBay suspects. However, these will only support USB 1.1 speeds (1.5Mbps and 12Mbps(so called 'full speed')). USB 2.0 offers 480Mbps hi-speed, but isolators that support this are usually $100+, up to $350. I use an isolator all the time for developing my synths, but have had problems with the cheap ones, so I developed a better one. Electrotechnique's USB 2.0 Isolator will be less than $100 and include external power input to support hi-speed USB with up to 5V 1A, to adaquately power peripherals. 
+
+![USB Isolator](20230808_144628.jpg)
+
+
 **30th June 2023** - Some more details about [Momentum](https://electrotechnique.cc/Momentum) and hello to the [TSynth Facebook Users Group](https://www.facebook.com/groups/418750379310464). The PCB and design were mainly finished two years ago, but it's taken time to write the firmware. It has all the features that were intended and I'm going to release it in August as a complete (perhaps with or without the Teensy Micromod) kit and some completely assembled. Over time I'll probably offer it to resellers. 
 It basically has the same sound as TSynth, but offers it in a smaller unit with more features that allow for further development. It was designed to be easier and probably cheaper to build than a TSynth with it's laser-cut/3D printed case. The case is just a 3D printed tray with a PCB front panel. There is about the same amount of soldering, but without the problems of soldering the Teensy 4.1 and audio shield. Yes, the cut-out for the audio socket is because I used the small PCM5102A PCBs that cost less than $2 and have the support components with them. This could have been already soldered on the main PCB, but it raises the cost and it's part of the DIY nature of Momentum.
 
