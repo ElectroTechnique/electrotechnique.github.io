@@ -4,6 +4,10 @@
  
 
 # <a name="news"></a> Latest News
+31stAugust 2023 - Electrotechnique Momentum [available now on Tindie.](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
+
+![Momentum](Momentum.jpg)
+
 **8th August 2023** - I'm still planning on offering Momentum by the end of this month. It'll be via Tindie again. Currently I'm getting components mostly from Digikey. I cannot buy the Teensy Micromods directly from Sparkfun, as they seem to think $90+ FedEx shipping is acceptable, so I have to buy them from Digikey which is $6 more expensive, but offer free DHL express delivery for $50+ orders. You do the maths!
 
 I'll also mention that very soon I'm selling a USB isolator on Tindie. Isolators are essential if you plug a synth into the USB port of a pc - such as TSynth and Momentum. Without an isolator, there is very strong digital noise plus usually, a ground-loop hum on the analogue audio. USB isolators are very cheap and readily available from the usual Aliexpress/eBay suspects. However, these will only support USB 1.1 speeds (1.5Mbps and 12Mbps(so-called 'full speed')). USB 2.0 offers 480Mbps hi-speed, but isolators that support this are usually $100+, up to $350. I use an isolator all the time for developing my synths, but have had problems with the cheap ones, so I developed a better one. Electrotechnique's USB 2.0 Isolator will be less than $100 and include external power input to support hi-speed USB with up to 5V 1A, to adaquately power peripherals. 
