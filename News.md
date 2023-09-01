@@ -4,7 +4,7 @@
  
 
 # <a name="news"></a> Latest News
-31stAugust 2023 - Electrotechnique Momentum [available now on Tindie.](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
+**31st August 2023** - Electrotechnique Momentum [available now on Tindie.](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
 
 ![Momentum](Momentum.jpg)
 
