@@ -5,4 +5,4 @@
  [![](MomentumMockup.png)](https://electrotechnique.cc/Momentum) 
 
 
-# Momentum is a Teensy Micromod based 12 voice polyphonic synthesizer. [Available on Tindie]([https://electrotechnique.cc/News](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
+# Momentum is a Teensy Micromod based 12 voice polyphonic synthesizer. [Available on Tindie](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
