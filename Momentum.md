@@ -7,6 +7,9 @@
 ## DIY 12-voice virtual analogue polyphonic synthesizer based on [TSynth](https://electrotechnique.cc/TSynth)
 ### [Available as a kit and fully built on Tindie](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
 
+### [Momentum User Manual and Build Guide](https://github.com/ElectroTechnique/Momentum/blob/main/Manual/Momentum%20User%20Manual.pdf)
+
+
 # Specifications  
 
 - Teensy Micromod-based 600MHz MCU
