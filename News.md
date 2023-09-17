@@ -4,6 +4,12 @@
  
 
 # <a name="news"></a> Latest News
+**17th September 2023** - Electrotechnique USB 2.0 Isolator now [available on Tindie](https://www.tindie.com/products/electrotechnique/usb-isolator-usb-20-hi-speed-480mbps-audio/)
+
+Momentum will be back in stock soon. I'm waiting for any early reports of problems from the first buyers. Seven kits and two fully built and tested units have been sold so far. I'm in a prcoess of ordering more components to keep a regular supply of kits going.
+
+![USB Isolator](20230808_144628.jpg)
+
 **31st August 2023** - Electrotechnique Momentum [available now on Tindie.](https://www.tindie.com/products/electrotechnique/momentum-12-voice-digital-poly-synth-diy-built/)
 
 ![Momentum](Momentum.jpg)
