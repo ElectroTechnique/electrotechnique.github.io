@@ -4,7 +4,7 @@
  
 
 # <a name="news"></a> Latest News
-**17th September 2023** - Momentum fireware V1.01 released with some bug fixes and better highlighting of slected patch, sequence, performance, character. See [Closed issues](https://github.com/ElectroTechnique/Momentum/issues?q=is%3Aissue+is%3Aclosed)
+**17th September 2023** - Momentum fireware V1.01 released with some bug fixes and better highlighting of selected patch, sequence, performance, character. See [Closed issues](https://github.com/ElectroTechnique/Momentum/issues?q=is%3Aissue+is%3Aclosed)
 
 **17th September 2023** - Electrotechnique USB 2.0 Isolator now [available on Tindie](https://www.tindie.com/products/electrotechnique/usb-isolator-usb-20-hi-speed-480mbps-audio/)
 
