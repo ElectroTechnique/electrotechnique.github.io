@@ -9,6 +9,8 @@
 
 ### [Momentum User Manual and Build Guide](https://github.com/ElectroTechnique/Momentum/blob/main/Manual/Momentum%20User%20Manual.pdf)
 
+### [Latest firmware](https://github.com/ElectroTechnique/Momentum/releases)
+
 
 # Specifications  
 
