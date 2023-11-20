@@ -4,6 +4,8 @@
  
 
 # <a name="news"></a> Latest News
+**20th November 2023** - Firmware V2.35 released - USB Host MIDI keyboards such as Arturia won't cause patch settings to change when plugged in any more - first couple of seconds are ignored. Fix to compiler error due to changes in compiler. SPI display speed dropped to lower noise. Some changes to loop() routine and bug fixes.
+
 **10th October 2023** - Momentum fireware V1.02 released. Encoder acceleration improved - Issue 4. 
 
 **17th September 2023** - Momentum fireware V1.01 released with some bug fixes and better highlighting of selected patch, sequence, performance, character. See [Closed issues](https://github.com/ElectroTechnique/Momentum/issues?q=is%3Aissue+is%3Aclosed)
