@@ -4,6 +4,8 @@
  
 
 # <a name="news"></a> Latest News
+**25th November 2023** - BLUE MONDAY SALE 20% off Momentum kit and fully built on Tindie on Monday 27th!
+
 **20th November 2023** - Firmware V2.35 released - USB Host MIDI keyboards such as Arturia won't cause patch settings to change when plugged in any more - first couple of seconds are ignored. Fix to compiler error due to changes in compiler. SPI display speed dropped to lower noise. Some changes to loop() routine and bug fixes.
 
 **10th October 2023** - Momentum fireware V1.02 released. Encoder acceleration improved - Issue 4. 
