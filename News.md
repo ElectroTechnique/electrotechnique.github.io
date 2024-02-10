@@ -4,7 +4,7 @@
  
 
 # <a name="news"></a> Latest News
-**6th February 2024** - Plinky Synth is back! This is a modified version from Electrotechnique available [on Tindie.](https://www.tindie.com/products/electrotechnique/plinky-synth-from-electrotechnique/)
+**6th February 2024** - Plinky Synth is back! This is a modified version from Electrotechnique is on sale and available to buy [on Tindie.](https://www.tindie.com/products/electrotechnique/plinky-synth-from-electrotechnique/)
 
 ![Plinky Synth](ps.jpg)
 
