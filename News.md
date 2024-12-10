@@ -4,6 +4,9 @@
  
 
 # <a name="news"></a> Latest News
+**10th December 2023** - Happy December from Electrotechnique!
+![A snowy landscape inspired by Pieter Bruegel the Elder with a synthesizer](BruegelSynth.png)
+
 **6th February 2024** - Plinky Synth is back! This is a modified version from Electrotechnique is on sale and available to buy [on Tindie.](https://www.tindie.com/products/electrotechnique/plinky-synth-from-electrotechnique/)
 
 ![Plinky Synth](ps.jpg)
